@@ -138,6 +138,7 @@
             this.Controls.Add(this.TbxEncryptin);
             this.Controls.Add(this.TbxData);
             this.Name = "FrmRSA";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Logarithm RSA";
             this.ResumeLayout(false);
             this.PerformLayout();

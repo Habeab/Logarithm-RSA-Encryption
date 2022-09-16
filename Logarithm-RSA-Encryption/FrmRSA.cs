@@ -2,7 +2,14 @@
 using System.Security.Cryptography;
 using System.Text;
 using System.Windows.Forms;
-
+/*
+ Name: Eng. Habeab Alhamed
+ Twitter: @Eng_Habeab
+ GitHub: https://github.com/Habeab
+ Email: Habeab@gmail.com
+ Whatsapp: 0553400333
+ Location: Saudi Arabia
+*/
 namespace Logarithm_RSA_Encryption
 {
     public partial class FrmRSA : Form
